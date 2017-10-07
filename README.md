@@ -1,3 +1,3 @@
-## Simple REST API using Express and MongoDB
+## Simple REST API using Express and MySQL
 
 
